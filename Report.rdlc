@@ -5153,7 +5153,7 @@ Cstr(Fields!PageCaption.Value)
                 <Paragraph>
                   <TextRuns>
                     <TextRun>
-                      <Value>PLAT </Value>
+                      <Value>PLAT NOMOR</Value>
                       <Style />
                     </TextRun>
                   </TextRuns>
